@@ -68,7 +68,9 @@ pre {
     line-height: 1.5;
     letter-spacing: 0.05rem;
     padding: 1rem;
-    background-color: rgb(52, 55, 235);
+    /* background-color: rgb(52, 55, 235); */
+    border: 2px solid rgb(52, 55, 235);
+
 }
 label {
     width: 200px;
@@ -79,7 +81,7 @@ select {
     padding: 5px;
     margin-bottom: 30px;
     font-family: 'AndroidInsomnia';
-    background-color: #022365;
+    background-color: rgb(52, 55, 235);
     color:white;
 }
 .form {
